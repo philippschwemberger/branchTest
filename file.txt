@@ -3,3 +3,5 @@ this is my first file
 Do not change this - this is important
 You can delete this
 this line was added in 2nd commit
+
+That is an addition in newFeature-Branch
