@@ -2,4 +2,4 @@ this is my first file
 2nd line
 this line was added in 2nd commit
 
-That is an addition in newFeature-Branch
+That is a MasterAddition in newFeature-Branch
